@@ -99,7 +99,7 @@ def train(num_epochs, model, loaders):
                 print(f'Epoch [{epoch + 1}/{num_epochs}], Step [{i + 1}/{total_step}], Loss: {loss.item():.4f}')
 
 # Train the new model
-num_epochs = 5   # Using fewer epochs for a quick demonstration
+num_epochs = 10   # Using fewer epochs for a quick demonstration
 train(num_epochs, model, loaders)
 
 # --- Test Function ---
