@@ -1,4 +1,4 @@
-# Medical Image Processing Exercises (1–9)
+# Medical Image Processing Exercises
 
 This repository contains a single Google Colab notebook that walks through **nine image-processing and deep learning exercises** using common medical-imaging style datasets (PNG/JPG, DICOM, segmentation masks, and X-ray images).
 
@@ -10,7 +10,7 @@ The code is written to run in **Google Colab** and assumes that several dataset 
 
 All exercises live in one notebook:
 
-- `exercise1to9.ipynb`
+- `medical_image_processing_steps.ipynb`
 
 Each exercise builds on core topics in medical image analysis:
 
