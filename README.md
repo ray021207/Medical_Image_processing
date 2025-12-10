@@ -28,9 +28,9 @@ Each exercise builds on core topics in medical image analysis:
 
 ## Datasets
 
-The notebook expects the following ZIP archives in Google Drive under:
+The notebook expects the following ZIP archives in miniJSRT_database:
 
-`/content/drive/MyDrive/Colab Notebooks/ImageprocessingExercises/`
+`http://imgcom.jsrt.or.jp/minijsrtdb/`
 
 Required files:
 
